@@ -3,7 +3,7 @@ Pesquisador focado em **Hierarchical Multi-label Classification (HMC)**.
 
 ## 📊 Minhas Estatísticas
 
-[![Sette's GitHub stats](https://github-readme-stats-7jei.vercel.app/api?username=sette&show_icons=true&theme=shadow_green)]
+[![Sette's GitHub stats](https://github-readme-stats-7jei.vercel.app/api?username=sette&show_icons=true&theme=shadow_blue)]
 
 ## 🔬 Interesses de Pesquisa
 * Classificação Hierárquica (HMC)
