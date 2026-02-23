@@ -2,13 +2,9 @@
 Pesquisador focado em **Hierarchical Multi-label Classification (HMC)**.
 
 ## 📊 Minhas Estatísticas
-<picture>
-  <source
-    srcset="https://github-readme-stats-7jei.vercel.app/api?username=sette&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  
-</picture>
+
+[![Anurag's GitHub stats](https://github-readme-stats-7jei.vercel.app/api?username=anuraghazra)]
+
 ## 🔬 Interesses de Pesquisa
 * Classificação Hierárquica (HMC)
 * Machine Learning & Deep Learning
