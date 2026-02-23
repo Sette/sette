@@ -7,8 +7,8 @@ Pesquisador focado em **Hierarchical Multi-label Classification (HMC)**.
 
 [![Readme Card](https://github-readme-stats-7jei.vercel.app/api/pin/?username=sette&repo=hmc-torch)]
 
+[![Top Langs](https://github-readme-stats-7jei.vercel.app/api/top-langs/?username=sette)]
 
-[![Gist Card](https://github-readme-stats-7jei.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 ## 🔬 Interesses de Pesquisa
 * Classificação Hierárquica (HMC)
