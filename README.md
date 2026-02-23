@@ -4,7 +4,7 @@ Pesquisador focado em **Hierarchical Multi-label Classification (HMC)**.
 ## 📊 Minhas Estatísticas
 <picture>
   <source
-    srcset="https://github-readme-stats-brunosilvasette-9336s-projects.vercel.app/api?username=sette&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-7jei-brunosilvasette-9336s-projects.vercel.app/api?username=sette&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
