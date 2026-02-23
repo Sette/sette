@@ -8,10 +8,10 @@ Pesquisador focado em **Hierarchical Multi-label Classification (HMC)**.
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-brunosilvasette-9336s-projects.vercel.app/api?username=sette&show_icons=true"
+    srcset="https://github-readme-stats-7jei.vercel.app/api?username=sette&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-brunosilvasette-9336s-projects.vercel.app/api?username=sette&show_icons=true" />
+  <img src="https://github-readme-stats-7jei.vercel.app/api?username=sette&show_icons=true" />
 </picture>
 ## 🔬 Interesses de Pesquisa
 * Classificação Hierárquica (HMC)
