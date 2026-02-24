@@ -50,8 +50,30 @@
     <img src="https://github-readme-stats-7jei.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=shadow_blue" alt="Repositório hmc-torch" />
   </a>
 </div>
-
 <br>
+
+<h2>⚡ Curiosidades</h2>
+<ul>
+  <li>🧠 <strong>Obsessão saudável:</strong> Transformar Hierarchical Multi-Label Classification em arte com PyTorch (se tiver matriz de adjacência, eu já fico feliz).</li>
+  
+  <li>📊 <strong>Modo pesquisa:</strong> Se envolve NeurIPS, arquitetura coerente e paper com nome complicado, provavelmente já está no meu radar.</li>
+  
+  <li>🔥 <strong>Build mode:</strong> Entre Poetry e uv, escolho performance... mas reclamo se travar o PC.</li>
+  
+  <li>🚀 <strong>Missão paralela:</strong> Tornar o <code>hmc_torch</code> elegante o suficiente para virar referência open-source.</li>
+  
+  <li>🤖 <strong>RAG enthusiast:</strong> Já descentralizei OpenWebUI, integrei Weaviate e pluguei OCR externo — porque o padrão nunca é suficiente.</li>
+  
+  <li>📈 <strong>Hiperfoco:</strong> Se dá para otimizar (GPU, paralelismo, Optuna por nível), então dá para melhorar.</li>
+  
+  <li>🎮 <strong>Modo casual:</strong> Xbox, promoções da Black Friday e aquele leve vício em acompanhar lançamento de nova geração.</li>
+  
+  <li>🧩 <strong>Debug lifestyle:</strong> Metade da vida resolvendo path no Windows, a outra metade brigando com Docker.</li>
+  
+  <li>☕ <strong>Combustível:</strong> Café forte o suficiente para compilar modelos e decisões existenciais.</li>
+  
+  <li>🇧🇷 <strong>Base:</strong> Brasileiro, pesquisador e defensor não oficial da elegância matemática aplicada ao código.</li>
+</ul>
 
 ## 📝 Publicação em Destaque
 
