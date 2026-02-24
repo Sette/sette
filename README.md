@@ -46,3 +46,14 @@
     <img src="https://github-readme-stats-7jei.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=shadow_blue" alt="Repositório hmc-torch" />
   </a>
 </div>
+
+<br>
+
+## 📝 Publicação em Destaque
+
+<div align="left">
+  <p>
+    <b><a href="https://ieeexplore.ieee.org/document/9533446">[Committee of NAS-based models]</a></b><br>
+    <i>International Joint Conference on Neural Networks (IJCNN)</i>
+  </p>
+</div>
