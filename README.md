@@ -54,25 +54,23 @@
 
 <h2>⚡ Curiosidades</h2>
 <ul>
-  <li>🧠 <strong>Obsessão saudável:</strong> Transformar Hierarchical Multi-Label Classification em arte com PyTorch (se tiver matriz de adjacência, eu já fico feliz).</li>
+  <li>🧠 <strong>Linha de Pesquisa:</strong> Hierarchical Multi-Label Classification (HMC), com foco em coerência estrutural, regularização hierárquica e arquiteturas profundas especializadas por nível.</li>
   
-  <li>📊 <strong>Modo pesquisa:</strong> Se envolve NeurIPS, arquitetura coerente e paper com nome complicado, provavelmente já está no meu radar.</li>
+  <li>📄 <strong>Base Teórica:</strong> Interesse especial em modelos coerentes como C-HMCNN e abordagens que integram restrições estruturais diretamente na função de perda.</li>
   
-  <li>🔥 <strong>Build mode:</strong> Entre Poetry e uv, escolho performance... mas reclamo se travar o PC.</li>
+  <li>🔬 <strong>Abordagem Científica:</strong> Forte preocupação com reprodutibilidade experimental, organização de datasets e avaliação criteriosa por nível da hierarquia.</li>
   
-  <li>🚀 <strong>Missão paralela:</strong> Tornar o <code>hmc_torch</code> elegante o suficiente para virar referência open-source.</li>
+  <li>⚙️ <strong>Stack Principal:</strong> PyTorch para modelagem profunda, com exploração de GCN, GAT e mecanismos de atenção aplicados a estruturas hierárquicas.</li>
   
-  <li>🤖 <strong>RAG enthusiast:</strong> Já descentralizei OpenWebUI, integrei Weaviate e pluguei OCR externo — porque o padrão nunca é suficiente.</li>
+  <li>📊 <strong>Otimização:</strong> Busca sistemática por hiperparâmetros (inclusive por nível hierárquico) utilizando estratégias automatizadas como Optuna.</li>
   
-  <li>📈 <strong>Hiperfoco:</strong> Se dá para otimizar (GPU, paralelismo, Optuna por nível), então dá para melhorar.</li>
+  <li>📦 <strong>Engenharia de Software:</strong> Desenvolvimento de bibliotecas reutilizáveis para experimentos em HMC, com versionamento estruturado e preocupação com CI/CD.</li>
   
-  <li>🎮 <strong>Modo casual:</strong> Xbox, promoções da Black Friday e aquele leve vício em acompanhar lançamento de nova geração.</li>
+  <li>🚀 <strong>Interesse Aplicado:</strong> Integração de sistemas de recuperação de informação (RAG), bases vetoriais e pipelines escaláveis para aplicações reais.</li>
   
-  <li>🧩 <strong>Debug lifestyle:</strong> Metade da vida resolvendo path no Windows, a outra metade brigando com Docker.</li>
+  <li>📐 <strong>Filosofia Técnica:</strong> Arquiteturas devem refletir a estrutura do problema — especialmente quando o problema é hierárquico.</li>
   
-  <li>☕ <strong>Combustível:</strong> Café forte o suficiente para compilar modelos e decisões existenciais.</li>
-  
-  <li>🇧🇷 <strong>Base:</strong> Brasileiro, pesquisador e defensor não oficial da elegância matemática aplicada ao código.</li>
+  <li>🇧🇷 <strong>Contexto:</strong> Pesquisador brasileiro em Ciência da Computação, atuando na interseção entre aprendizado profundo, classificação estruturada e modelagem hierárica.</li>
 </ul>
 
 ## 📝 Publicação em Destaque
