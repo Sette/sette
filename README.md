@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Olá, prazer em conhecê-lo, eu me chamo Bruno 👋</h1>
   <p><em>Pesquisador focado em <b>Hierarchical Multi-label Classification (HMC)</b></em></p>
+
+  <a href="https://sette.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Meu_Site-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio do Bruno" />
+  </a>
 </div>
 
 <br>
