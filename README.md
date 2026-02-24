@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/sette">
-    <img height="165" src="https://github-readme-stats-7jei.vercel.app/api?username=sette&show_icons=true&theme=shadow_blue" alt="Estatísticas do Bruno" />
+    <img height="165" src="https://github-readme-stats-7jei.vercel.app/api?username=sette&show_icons=true&theme=tokyonight" alt="Estatísticas do Bruno" />
   </a>
   <a href="https://github.com/sette">
-    <img height="165" src="https://github-readme-stats-7jei.vercel.app/api/top-langs/?username=sette&theme=shadow_blue&layout=compact" alt="Linguagens mais usadas" />
+    <img height="165" src="https://github-readme-stats-7jei.vercel.app/api/top-langs/?username=sette&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" />
   </a>
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://github.com/sette/hmc-torch">
-    <img src="https://github-readme-stats-7jei.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=shadow_blue" alt="Repositório hmc-torch" />
+    <img src="https://github-readme-stats-7jei.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=tokyonight" alt="Repositório hmc-torch" />
   </a>
 </div>
 <br>
