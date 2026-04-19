@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://github.com/sette">
-    <img height="165" src="https://na/api?username=sette&show_icons=true&theme=tokyonight" alt="Estatísticas do Bruno" />
+    <img height="165" src="https://github-readme-stats-eight-plum-55.vercel.app/api?username=sette&show_icons=true&theme=tokyonight" alt="Estatísticas do Bruno" />
   </a>
   <a href="https://github.com/sette">
     <img height="165" src="https://github-readme-stats-eight-plum-55.vercel.app/api/top-langs/?username=sette&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" />
