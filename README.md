@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://github.com/sette/hmc-torch">
-    <img src="https://github-readme-stats-chj2y43i1-brunosilvasette-9336s-projects.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=tokyonight" alt="Repositório hmc-torch" />
+    <img src="https://github-readme-stats-eight-plum-55.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=tokyonight" alt="Repositório hmc-torch" />
   </a>
 </div>
 <br>
