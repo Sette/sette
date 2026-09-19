@@ -35,28 +35,6 @@
 ## 📊 Minhas Estatísticas
 
 
-## Card Types
-
-- Show your GitHub statistics:
-
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=sette&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=sette&theme=light_github" alt="Anurag's GitHub stats" />
-  </picture>
-
-- ...your top languages...:
-
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sette&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sette&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
-
 - ...and development time:
 
   <a href="https://wakatime.com/@alan">
@@ -69,29 +47,7 @@
     </picture>
   </a>
 
-- Pin more than 6 repos in your GitHub profile:
 
-  <a href="https://github.com/sette/github-readme-stats">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=github-readme-stats&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
-    </picture>
-  </a>
-
-- Pin Gists in your GitHub profile:
-
-  <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=light_github_repocard" alt="Gist Card" />
-    </picture>
-  </a>
 
 - Customize all the cards:
 
@@ -101,10 +57,31 @@
 
 <div align="center">
   <a href="https://github.com/sette">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=sette&langs_count=4&theme=tokyonigh&layout=compact" alt="Estatísticas do Bruno" />
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=sette&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+    <img src="https://github-stats-extended.vercel.app/api?username=sette&theme=light_github" alt="Sette's GitHub stats" />
+  </picture>
   </a>
   <a href="https://github.com/sette">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sette&theme=tokyonight&layout=compact" alt="Linguagens mais usadas" />
+    <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sette&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sette&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
+  </a>
+  <a href="https://github.com/sette">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=light_github_repocard" alt="HMC Card" />
+    </picture>
   </a>
 </div>
 
