@@ -82,7 +82,7 @@
         srcset="[https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=dark_github_repocard](https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)"
         media="(prefers-color-scheme: dark)"
         />
-        <img src="[https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=light_github_repocard](https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)" alt="Sette's Stats" 
+        <img src="[https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=light_github_repocard](https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)" alt="Sette's Stats" />
     </picture>
   </a>
   
