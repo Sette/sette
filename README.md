@@ -37,7 +37,7 @@
 
 - ...and development time:
 
-  <a href="https://wakatime.com/@alan">
+  <a href="https://wakatime.com/@sette">
     <picture>
       <source
         srcset="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark_github"
