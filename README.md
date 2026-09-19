@@ -85,15 +85,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/sette/hmc-torch">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/pin/?username=sette&repo=hmc-torch&theme=tokyonightlayout=compact" alt="Repositório hmc-torch" />
-  </a>
-</div>
-<br>
-
 <h2>⚡ Curiosidades</h2>
 <ul>
   <li>🧠 <strong>Linha de Pesquisa:</strong> Hierarchical Multi-Label Classification (HMC), com foco em coerência estrutural, regularização hierárquica e arquiteturas profundas especializadas por nível.</li>
