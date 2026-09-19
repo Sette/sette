@@ -40,10 +40,10 @@
   <a href="https://wakatime.com/@4657f8bb-3ec1-4d2f-a95a-928c110885be">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=sette&langs_count=6&theme=dark_github"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=4657f8bb-3ec1-4d2f-a95a-928c110885be&langs_count=6&theme=dark_github"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=sette&langs_count=6&theme=light_github" alt="Sette's WakaTime stats" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=4657f8bb-3ec1-4d2f-a95a-928c110885be&langs_count=6&theme=light_github" alt="Sette's WakaTime stats" />
     </picture>
   </a>
 
