@@ -79,10 +79,10 @@
   <a href="https://github.com/sette">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
+        srcset="https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=dark_github_repocard&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"
         media="(prefers-color-scheme: dark)"
         />
-        <img src="https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Sette's Stats" />
+        <img src="https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=dark_github_repocard&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Sette's Stats" />
     </picture>
   </a>
   
