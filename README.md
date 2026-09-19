@@ -35,18 +35,6 @@
 ## 📊 Minhas Estatísticas
 
 
-- ...and development time:
-
-  <a href="https://wakatime.com/@4657f8bb-3ec1-4d2f-a95a-928c110885be">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=4657f8bb-3ec1-4d2f-a95a-928c110885be&langs_count=6&theme=dark_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=4657f8bb-3ec1-4d2f-a95a-928c110885be&langs_count=6&theme=light_github" alt="Sette's WakaTime stats" />
-    </picture>
-  </a>
-
 
 <div align="center">
   <a href="https://github.com/sette">
@@ -85,6 +73,16 @@
         <img src="https://github-stats-extended.vercel.app/api/?username=sette&show_icons=true&theme=dark_github_repocard&rank_icon=github&include_all_commits=true&custom_title=Sette's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Sette's Stats" />
     </picture>
   </a>
+   <a href="https://wakatime.com/@4657f8bb-3ec1-4d2f-a95a-928c110885be">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=4657f8bb-3ec1-4d2f-a95a-928c110885be&langs_count=6&theme=dark_github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=4657f8bb-3ec1-4d2f-a95a-928c110885be&langs_count=6&theme=light_github" alt="Sette's WakaTime stats" />
+    </picture>
+  </a>
+
   
 </div>
 
